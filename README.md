@@ -1,6 +1,13 @@
 # Vrinda-Store-Excel
 Data Analysis using Excel 
 
+
+
+![Screenshot 2024-07-03 201012](https://github.com/JayKumarPal0108/Vrinda-Store-Excel/assets/127579215/2be63f0f-0272-4f77-939d-5fec14a09c7b)
+
+
+
+
 Hello Everyone, This is Just me practicing Data Analysis using Excel , Pivot table and Pivot chart.
 
 Here are some sample questions that we are going to solve for the data of Vrinda Store for the Year 2022.
